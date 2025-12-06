@@ -25,12 +25,12 @@ from pathlib import Path
 from datetime import datetime
 from utils.metric_torch import evaluate_auc, evaluate_pcd, write_evaluation_results
 
-from vggt_n.models.vggt import VGGT
-from vggt_n.utils.load_fn import load_and_preprocess_images_ratio
-from vggt_n.utils.pose_enc import pose_encoding_to_extri_intri
-from vggt_n.utils.geometry import unproject_depth_map_to_point_map
-from vggt_n.utils.helper import create_pixel_coordinate_grid, randomly_limit_trues
-from vggt_n.dependency.np_to_pycolmap import batch_np_matrix_to_pycolmap_wo_track
+from vggt_x.models.vggt import VGGT
+from vggt_x.utils.load_fn import load_and_preprocess_images_ratio
+from vggt_x.utils.pose_enc import pose_encoding_to_extri_intri
+from vggt_x.utils.geometry import unproject_depth_map_to_point_map
+from vggt_x.utils.helper import create_pixel_coordinate_grid, randomly_limit_trues
+from vggt_x.dependency.np_to_pycolmap import batch_np_matrix_to_pycolmap_wo_track
 
 
 torch._dynamo.config.accumulated_cache_size_limit = 512

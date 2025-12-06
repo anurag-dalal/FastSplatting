@@ -14,7 +14,7 @@ from typing import List, Dict, Tuple, Union
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from vggt_n.layers import MlpFP32
+from vggt_x.layers import MlpFP32
 from .head_act import activate_head
 from .utils import create_uv_grid, position_grid_to_embed
 

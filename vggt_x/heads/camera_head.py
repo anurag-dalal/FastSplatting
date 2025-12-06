@@ -11,9 +11,9 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-from vggt_n.layers import Mlp, MlpFP32
-from vggt_n.layers.block import Block
-from vggt_n.heads.head_act import activate_pose
+from vggt_x.layers import Mlp, MlpFP32
+from vggt_x.layers.block import Block
+from vggt_x.heads.head_act import activate_pose
 
 
 class CameraHead(nn.Module):

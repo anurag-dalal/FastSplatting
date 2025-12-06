@@ -47,4 +47,4 @@ After a run, outputs are written under each `results/<scene>/` with the followin
 - Common config knobs you may want to override on the CLI: `--data_dir`, `--result_dir`, `--data_factor`, `--steps_scaler`, `--max_steps`, and `--ckpt`.
 - `training.py` uses a small internal server/viewer which is disabled automatically in distributed mode or when `cfg.disable_viewer=True`.
 
-
+Thanks to [VGGT-X](https://github.com/Linketic/VGGT-X) and [3RGS](https://github.com/zsh523/3rgs)

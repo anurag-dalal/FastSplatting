@@ -9,7 +9,7 @@ import torch
 import numpy as np
 
 
-from vggt_n.dependency.distortion import apply_distortion, iterative_undistortion, single_undistortion
+from vggt_x.dependency.distortion import apply_distortion, iterative_undistortion, single_undistortion
 
 
 def unproject_depth_map_to_point_map(

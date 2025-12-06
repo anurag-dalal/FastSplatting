@@ -11,10 +11,10 @@ import torch.nn.functional as F
 from torch.utils.checkpoint import checkpoint
 from typing import Optional, Tuple, Union, List, Dict, Any
 
-from vggt_n.layers import PatchEmbed
-from vggt_n.layers.block import Block
-from vggt_n.layers.rope import RotaryPositionEmbedding2D, PositionGetter
-from vggt_n.layers.vision_transformer import vit_small, vit_base, vit_large, vit_giant2
+from vggt_x.layers import PatchEmbed
+from vggt_x.layers.block import Block
+from vggt_x.layers.rope import RotaryPositionEmbedding2D, PositionGetter
+from vggt_x.layers.vision_transformer import vit_small, vit_base, vit_large, vit_giant2
 
 logger = logging.getLogger(__name__)
 

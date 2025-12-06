@@ -126,7 +126,7 @@ def predict_tracks(
     pred_points_3d = np.concatenate(pred_points_3d, axis=0) if pred_points_3d else None
     pred_colors = np.concatenate(pred_colors, axis=0) if pred_colors else None
 
-    # from vggt_n.utils.visual_track import visualize_tracks_on_images
+    # from vggt_x.utils.visual_track import visualize_tracks_on_images
     # visualize_tracks_on_images(images[None], torch.from_numpy(pred_tracks[None]), torch.from_numpy(pred_vis_scores[None])>0.2, out_dir="track_visuals")
 
     return pred_tracks, pred_vis_scores, pred_confs, pred_points_3d, pred_colors
