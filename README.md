@@ -10,7 +10,7 @@
     <a href="https://www.uia.no/english/about-uia/employees/kjellgr/index.html">Kjell Gunnar Robbersmyr</a>
   </p>
   <p align="center">
-    <em>DeparDepartment of Engineering Sciences, University of Agder, Norway</em>
+    <em>Department of Engineering Sciences, University of Agder, Norway</em>
   </p>
 
 </p>
