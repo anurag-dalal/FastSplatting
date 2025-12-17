@@ -75,7 +75,7 @@ After a run, outputs are written under each `path/to/store/results/<scene>/` wit
 
 `train_all.py` also writes a summary CSV `train_all_metrics.csv` to the configured result directory base including PSNR/SSIM/LPIPS/L1 and runtime/memory fields.
 
-## Visulization
+## 📸 Visulization
 Use `simple_viewer.py` to visualize the trained 3DGS.
 ```bash
 python ./simple_viewer.py --ckpt /path/to/trained/model/ckpts/ckpt_6999_rank0.pt --port 8081
