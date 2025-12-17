@@ -1,5 +1,7 @@
 name: FastSplatting
 channels:
+  - pytorch
+  - nvidia
   - conda-forge
   - defaults
 dependencies:
