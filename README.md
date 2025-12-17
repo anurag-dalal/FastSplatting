@@ -91,4 +91,13 @@ The table below shows comparison across MipNerf Scenes:
 | bicycle | 17.52 | 0.303 | 0.567 | 23.10 | 0.707 | 0.201 | 24.89 | 0.727 | 0.252 | 24.22 | 0.7103 | 0.2003 |
 | room    | 30.66 | 0.899 | 0.204 | -     | -     | -     | 31.82 | 0.924 | 0.154 | 28.48 | 0.8921 | 0.0897 |
 
-Thanks to [VGGT-X](https://github.com/Linketic/VGGT-X) and [3RGS](https://github.com/zsh523/3rgs)
+## 🤗 Citation
+If you find this repository useful for your research, please use the following BibTeX entry for citation.
+```
+```
+
+## 🤝 Acknowledgements
+Thanks to [VGGT-X](https://github.com/Linketic/VGGT-X) and [3RGS](https://github.com/zsh523/3rgs) and many other inspiring works in the community. Thanks for their great work!
+
+## 🪪 License
+See the [LICENSE](LICENSE.txt) file for details about the license under which this code is made available.
