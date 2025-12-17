@@ -1,16 +1,16 @@
 <p align="center">
-  <h1 align="center"><strong> <img src="assets/logo.png" width="40" height="30">  FastSplatting: SfM free Ultra Fast Gaussian Splatting</strong></h1>
+  <h1 align="center"><strong> <img src="assets/logo.png" width="25" height="20">  FastSplatting: SfM free Ultra Fast Gaussian Splatting</strong></h1>
 	<p align="center">
-    <a href="https://github.com/anurag-dalal">Anurag Dalal</a>
+    <a href="https://github.com/anurag-dalal">Anurag Dalal </a><a href="https://orcid.org/0009-0007-9228-8222"><img src="assets/ORCID_iD.svg.png" width="15" height="15"></a>
     ·
-    <a href="https://www.uia.no/english/about-uia/employees/danielh/index.html">Daniel Hagen</a>
+    <a href="https://www.uia.no/english/about-uia/employees/danielh/index.html">Daniel Hagen </a><a href="https://orcid.org/0000-0002-7030-6676"><img src="assets/ORCID_iD.svg.png" width="15" height="15"></a>
     ·
-    <a href="https://www.uia.no/english/about-uia/employees/kristimk/index.html">Kristian Muri Knausgård</a>
+    <a href="https://www.uia.no/english/about-uia/employees/kristimk/index.html">Kristian Muri Knausgård</a> <a href="https://orcid.org/0000-0003-4088-1642"><img src="assets/ORCID_iD.svg.png" width="15" height="15"></a>
     ·
-    <a href="https://www.uia.no/english/about-uia/employees/kjellgr/index.html">Kjell Gunnar Robbersmyr</a>
+    <a href="https://www.uia.no/english/about-uia/employees/kjellgr/index.html">Kjell Gunnar Robbersmyr </a><a href="https://orcid.org/0000-0001-9578-7325"><img src="assets/ORCID_iD.svg.png" width="15" height="15"></a>
   </p>
   <p align="center">
-    <em>Department of Engineering Sciences, University of Agder, Norway</em>
+    <em>Department of Engineering Sciences, University of Agder, Jon Lilletuns vei 9, 4879 Grimstad, Norway</em>
   </p>
 
 </p>
