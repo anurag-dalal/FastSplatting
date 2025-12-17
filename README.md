@@ -1,11 +1,42 @@
-**Project**: FastSplatting — training & evaluation helper
+<p align="center">
+  <h1 align="center"><strong> <img src="assets/logo.png" width="40" height="30">  FastSplatting: SfM free Ultra Fast Gaussian Splatting</strong></h1>
 
-- **Purpose**: Quick instructions to run training and batch runs using
-	`training.py` and `train_all.py` included in this repo.
+  <p align="center">
+    <em>DeparDepartment of Engineering Sciences, University of Agder, Norway</em>
+  </p>
 
-**Quick Start**:
-- **Install dependencies**: this project requires Python, PyTorch (CUDA if using GPU), and a set of scientific and vision packages used in `training.py` (examples below).
-- **Prepare dataset**: each scene should have an `images/` folder and supporting files expected by the dataset parser (see `utils/vggt_dataset_v2.py`).
+</p>
+<div id="top" align="center">
+
+[![arXiv](https://img.shields.io/badge/arXiv-2509.25191-b31b1b.svg)](http://arxiv.org/)
+[![](https://img.shields.io/badge/%F0%9F%9A%80%20-Project%20Page-blue)](https://github.com/anurag-dalal/FastSplatting)
+
+</div>
+
+<div align="center">
+    <img src="assets/renders.png">
+</div>
+
+## 📰 News
+**[2025.10.26]** Code of VGGT-X had been released!
+
+**[2025.09.30]** Paper release of our VGGT-X on arXiv!
+
+## 🔎 Purpose
+Instructions to run training and batch runs using
+`training.py` and `train_all.py` included in this repo. Also visualize using `simple_viewer.py`
+
+## ⚡ Quick Start
+This project uses miniconda to install dependencies. CUDA 12.1 is used on a RTX 4090 GPU.
+First, clone this repository to your local machine, and install the dependencies. 
+
+```bash
+git clone --recursive https://github.com/anurag-dalal/FastSplatting.git 
+cd FastSplatting
+conda env create -f environment.yml
+conda activate FastSplatting
+pip install -r requirements.txt
+```
 
 **Minimal example commands**:
 - **Single-GPU training**: run a config (named `default` or `mcmc`) using the bundled tyro CLI configs.
