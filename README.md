@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"><strong> <img src="assets/logo.png" width="25" height="20">  FastSplatting: SfM free Ultra Fast Gaussian Splatting</strong></h1>
+  <h1 align="center"><strong> <img src="assets/logo.png" width="40" height="30">  FastSplatting: SfM free Ultra Fast Gaussian Splatting</strong></h1>
 	<p align="center">
     <a href="https://github.com/anurag-dalal">Anurag Dalal </a><a href="https://orcid.org/0009-0007-9228-8222"><img src="assets/ORCID_iD.svg.png" width="15" height="15"></a>
     ·
