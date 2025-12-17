@@ -1,6 +1,14 @@
 <p align="center">
   <h1 align="center"><strong> <img src="assets/logo.png" width="40" height="30">  FastSplatting: SfM free Ultra Fast Gaussian Splatting</strong></h1>
-
+	<p align="center">
+    <a href="https://github.com/anurag-dalal">Anurag Dalal</a>
+    ·
+    <a href="https://www.uia.no/english/about-uia/employees/danielh/index.html">Daniel Hagen</a>
+    ·
+    <a href="https://www.uia.no/english/about-uia/employees/kristimk/index.html">Kristian Muri Knausgård</a>
+    ·
+    <a href="https://www.uia.no/english/about-uia/employees/kjellgr/index.html">Kjell Gunnar Robbersmyr</a>
+  </p>
   <p align="center">
     <em>DeparDepartment of Engineering Sciences, University of Agder, Norway</em>
   </p>
@@ -18,7 +26,7 @@
 </div>
 
 ## 📰 News
-**[DD.MM.YYYY]** Code of FastSplatting had been released!
+**[17.12.2025]** Code of FastSplatting had been released!
 
 **[DD.MM.YYYY]** Paper release of our FastSplatting on arXiv!
 
@@ -94,6 +102,7 @@ The table below shows comparison across MipNerf Scenes:
 ## 🤗 Citation
 If you find this repository useful for your research, please use the following BibTeX entry for citation.
 ```
+COMING SOON
 ```
 
 ## 🤝 Acknowledgements
