@@ -28,7 +28,7 @@
 ## 📰 News
 **[17.12.2025]** Code of FastSplatting had been released!
 
-**[DD.MM.YYYY]** Paper release of our FastSplatting on arXiv!
+**[DD.MM.YYYY]** Paper release of our FastSplatting on arXiv! (coming soon)
 
 ## 🔎 Purpose
 Instructions to run training and batch runs using
